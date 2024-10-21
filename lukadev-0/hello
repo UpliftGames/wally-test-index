@@ -1,0 +1,1 @@
+{"package":{"name":"lukadev-0/hello","version":"0.2.0","registry":"https://github.com/UpliftGames/wally-test-index","realm":"shared","description":"Prints hello","license":null,"authors":[],"include":[],"exclude":[],"private":false},"place":{"shared-packages":null,"server-packages":null},"dependencies":{},"server-dependencies":{},"dev-dependencies":{}}
